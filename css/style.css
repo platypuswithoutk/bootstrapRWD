@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(167, 166, 166);
+}
+
+hr {
+    font-weight: 700;
+    width: 25%;
+    color: lightgray;
+}
+
+.container {
+    text-align: center;
+    padding-top: 40px;
+}
+
+ i {    
+    background-color: rgb(236, 235, 235); 
+    border-radius: 50%;
+    padding: 25px;
+    color: rgb(207, 115, 3);
+    text-align: center;
+    font-size: 2em;
+ }
+
+ p {
+    font-size: 20px;
+    color: grey;
+}
